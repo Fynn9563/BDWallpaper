@@ -1,0 +1,6 @@
+/** optional fun **/
+img.emoji.jumboable{margin:0px !important;}/**fix emoji spacing for 2x2 emotes**/
+img.emoji:not(.jumboable){height:32px !important;width:auto !important;}/**never resize emoji**/
+.reaction img.emoji{height:16px !important;}/**nvm actually do resize reactions**/
+.emojiPicker-3m1S-j{height:500px;}/** larger emojipicker part 1**/
+.emojiPicker-3m1S-j .scroller-3vODG7{height:400px !important;}/** larger emojipicker part 2**/
